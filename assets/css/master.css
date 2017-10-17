@@ -1,0 +1,30 @@
+html, body {
+	margin:0;
+	padding:0;
+}
+
+p {
+    font-family : Letters for learners;
+    font-size : 25px;
+    text-align: center;
+    color : deeppink;
+    width: 50%;
+    margin: auto;
+    
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+    border-radius : 100px;
+    box-shadow : 6px 6px 0px pink;
+}
+
+.titre {
+    margin-top: 50px;
+    text-decoration: underline;
+    font-size: 40px;
+}
